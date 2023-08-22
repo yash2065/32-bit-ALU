@@ -1,0 +1,14 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../fullAdder.vhd"
+vhdl xil_defaultlib  "../../../right_shift_32bit.vhd"
+vhdl xil_defaultlib  "../../../or_32bit.vhd"
+vhdl xil_defaultlib  "../../../not_32bit.vhd"
+vhdl xil_defaultlib  "../../../mux_8to1.vhd"
+vhdl xil_defaultlib  "../../../mux_2to1.vhd"
+vhdl xil_defaultlib  "../../../left_shift_32bit.vhd"
+vhdl xil_defaultlib  "../../../and_32bit.vhd"
+vhdl xil_defaultlib  "../../../adder_32bit.vhd"
+vhdl xil_defaultlib  "../../../projectALU32.srcs/sources_1/new/ALU32.vhd"
+
+# Do not sort compile order
+nosort

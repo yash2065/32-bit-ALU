@@ -1,0 +1,20 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/lenovo/OneDrive/Desktop/ALU/fullAdder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity fullAdder
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/lenovo/OneDrive/Desktop/ALU/right_shift_32bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity right_shift_32bit
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/lenovo/OneDrive/Desktop/ALU/or_32bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity or_32bit
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/lenovo/OneDrive/Desktop/ALU/not_32bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity not_32bit
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/lenovo/OneDrive/Desktop/ALU/mux_8to1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity mux_8to1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/lenovo/OneDrive/Desktop/ALU/mux_2to1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity mux_2to1
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/lenovo/OneDrive/Desktop/ALU/left_shift_32bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity left_shift_32bit
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/lenovo/OneDrive/Desktop/ALU/and_32bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity and_32bit
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/lenovo/OneDrive/Desktop/ALU/adder_32bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity adder_32bit
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/lenovo/OneDrive/Desktop/ALU/projectALU32.srcs/sources_1/new/ALU32.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ALU32
